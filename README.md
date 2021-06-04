@@ -13,7 +13,7 @@
 
 ![lab-01-folders](lab-01-folders.png)
 
-### Doucument hotkeys
+### Document hotkeys
 
 [lab-01.shorcuts](https://lizz02.github.io/cit281-lab01/lab-01.shortcuts.txt)
 
